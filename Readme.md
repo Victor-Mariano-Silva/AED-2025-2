@@ -1,0 +1,1 @@
+Aqui estarão os códigos referentes a matéria de Algoritmo e Estrutura de dados 2025/2
